@@ -1,0 +1,12 @@
+# Fichiers temporaires Microsoft Office
+~$*
+
+# Fichiers temporaires et sauvegardes automatiques
+*.tmp
+*.temp
+*.bak
+
+# Fichiers système Windows et macOS
+Thumbs.db
+Desktop.ini
+.DS_Store
